@@ -1,6 +1,6 @@
 Privacy Policy
 Effective Date: 11/08/2025
-Developer: (Your Name or Company Name)
+Developer: Genevolut
 
 This Privacy Policy explains how we collect, use, and protect your information when you use our Android mobile app (“the App”), which provides notification alerts when a selected app is in the foreground, an accomplishments sharing area, account creation, and subscription features.
 
