@@ -1,5 +1,5 @@
 Privacy Policy
-Effective Date: (Insert date)
+Effective Date: 11/08/2025
 Developer: (Your Name or Company Name)
 
 This Privacy Policy explains how we collect, use, and protect your information when you use our Android mobile app (“the App”), which provides notification alerts when a selected app is in the foreground, an accomplishments sharing area, account creation, and subscription features.
@@ -72,7 +72,7 @@ Opt-out of marketing communications.
 
 Request a copy of your stored information.
 
-To exercise your rights, contact us at [Your Contact Email].
+To exercise your rights, contact us at genevolut@gmail.com
 
 6. Children’s Privacy
 Our app is not intended for children under the age of 13 (or the age of digital consent in your region). We do not knowingly collect data from children.
